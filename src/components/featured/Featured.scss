@@ -1,0 +1,21 @@
+.featured_movie{
+    width: 394px;
+    height: 212px;
+    object-fit: cover;
+}
+
+.discrovery_movie__wrapper{
+    background-position: center center;
+}
+
+.slider-wrapper{
+    // margin-top: -200px;
+    padding-left: 95px;
+    position: relative;
+    z-index: 5;
+    background: #000;
+    h1{
+        margin-bottom: 50px;
+        color: #fff;
+    }
+}
